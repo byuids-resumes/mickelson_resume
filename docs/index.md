@@ -1,33 +1,42 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: David Mickelson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# David Mickelson
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="davidmickelson99@gmail.com">davidmickelson99@gmail.com</a>
+| <a href="https://www.linkedin.com/in/david-mickelson/">LinkedIn</a>
+| <a href="https://github.com/dmickel10">GitHub</a>
+| <a href="https://dmickel10.github.io/Understanding-Residuals/">Example Work</a>
 </div>
+
+
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
+
+- Accounting Major with Data Science Emphasis
 
 - 4.0 Major GPA
 
+    ### Experience
 
-## Related Experience
+    `Winter 2023`
+    __Accounting Lab Assitant -__ BYU-Idaho
+
+    `Spring 2022`
+    __Statistics TA -__ BYU-Idaho
+
+
+
+<!-- ## Related Experience
 
 ### Internships
 
@@ -68,22 +77,22 @@ __Pinnacle Management Group__,
 
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Saved client $10k in database and dashboard server fees and validated future dashboard processes. -->
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2022-Present`
+__Cabinet Maker__ - Yates Cabinets
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2020`
+__Service Missionary -__ Olongapo, Philippines
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
