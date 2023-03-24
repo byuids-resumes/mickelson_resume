@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: David Mickelson's Resume
 ---
 
