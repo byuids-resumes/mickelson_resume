@@ -24,15 +24,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Accounting Major with Data Science Emphasis
 
-- 4.0 Major GPA
+- 3.7 Cumulative GPA
 
-    ### Experience
+- `Winter 2023`
+__Accounting Lab Assitant -__ BYU-Idaho
 
-    `Winter 2023`
-    __Accounting Lab Assitant -__ BYU-Idaho
-
-    `Spring 2022`
-    __Statistics TA -__ BYU-Idaho
+- `Spring 2022`
+__Statistics TA -__ BYU-Idaho
 
 
 
